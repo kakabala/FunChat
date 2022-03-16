@@ -164,7 +164,6 @@ void PrintUsage()
        + "[bold fuchsia]/h[/] to re-read the current channel [underline green]history[/]\n"
        + "[bold fuchsia]/m[/] to query [underline green]members[/] in the current channel\n"
        + "[bold fuchsia]/g[/] to go to [underline green]the specific private channel[/]\n"
-       + "[bold fuchsia]/p[/] to query [underline green]list of your private channels[/]\n"
        + "[[[bold red]administrator[/]]][bold fuchsia] /adc[/] to query [underline green]list of all channels[/]\n"
        + "[[[bold red]administrator[/]]][bold fuchsia] /adm[/] [aqua]<channel>[/] to query [underline green]list of members in the channel.[/]\n"
        + "[[[bold red]administrator[/]]][bold fuchsia] /adr[/] [aqua]<channel>[/] to delete [underline green]the channel.[/]\n"
