@@ -2,3 +2,7 @@
 /FunChat.Common/obj/
 /FunChat.Server/obj/
 /FunChat.UnitTest/obj/
+/FunChat.Client/bin/
+/FunChat.Common/bin/
+/FunChat.Server/bin/
+/FunChat.UnitTest/bin/

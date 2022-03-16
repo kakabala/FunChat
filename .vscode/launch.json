@@ -8,7 +8,7 @@
             "name": "FunChat Server (console)",
             "type": "coreclr",
             "request": "launch",
-            "preLaunchTask": "build",
+            "preLaunchTask": "build_server",
             "program": "${workspaceFolder}/FunChat.Server/bin/Debug/net5.0/FunChat.Server.dll",
             "args": [],
             "cwd": "${workspaceFolder}/FunChat.Server",
